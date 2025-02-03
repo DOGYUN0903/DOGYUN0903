@@ -1,17 +1,35 @@
 # Kim Do Gyun 😄
 
-![DoGyun's GitHub stats](https://github-readme-stats.vercel.app/api?username=SexyDoGyun&show_icons=true&theme=radical)
+## 👩🏻‍💻 자기소개
+- 안양대학교(Anyang University) 
+- 소프트웨어전공 (Software Engineering)
+
+## 🏆 수상 경력
+- `2024.12` 캡스톤 경진대회 최우수상 수상 (팀명: 김코딩과 석스킬)
+
+## 🪪 **자격증**   
+- `2024.12` 정보처리기사
+- `2023.10` SQLD
+
+## ⌨️ 코딩
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kimdk0903)](https://solved.ac/kimdk0903/)
 
-# 💪Skills
-### Platforms & Languages
-![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white)
+## 📃 프로젝트
+
+| 프로젝트명 | 설명 | 깃허브 |
+|------------|------|--------|
+| **📖면접의 神** | 모의면접 웹 프로그램 | [완료](https://github.com/SexyDoGyun/The-God-of-Interview) |
+
+## 📊Statistics
+<a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chltmdgh522&layout=donut&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true&exclude_repo=Face-Transfer-Application" width=38% />
+</a>    
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=chltmdgh522&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true" width=56% />
+</a>
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=chltmdgh522&theme=react-dark&bg_color=20232a&hide_border=true&line=58A6FF&color=58A6FF" width=94%/>
+</a>
 
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?&style=for-the-badge&logo=MySQL&logoColor=white)
 
-### Tools
-![Eclipse IDE](https://img.shields.io/badge/Eclipse%20IDE-2C2255.svg?&style=for-the-badge&logo=Eclipse%20IDE&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
