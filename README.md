@@ -10,6 +10,7 @@
 ## 🪪 **자격증**   
 - `2024.12` 정보처리기사
 - `2023.10` SQLD
+- `2025.02` OPIc IM1
 
 ## ⌨️ 코딩
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kimdk0903)](https://solved.ac/kimdk0903/)
