@@ -20,7 +20,7 @@
 | 프로젝트명 | 설명 | 깃허브 |
 |------------|------|--------|
 | **📖면접의 神** | 모의면접 웹 프로그램 | [완료](https://github.com/SexyDoGyun/The-God-of-Interview) |
-| **🏃헬쑥헤요[개인프로젝트]** | 운동인들을 위한 커뮤니티 | [진행중](https://github.com/SexyDoGyun/fitness_community) |
+| **🏃헬쑥헤요[개인프로젝트]** | 운동인들을 위한 커뮤니티 | [진행중](https://github.com/SexyDoGyun/HealthCare) |
 
 ## 📊Statistics
 <a href="https://github.com/anuraghazra/github-readme-stats">
