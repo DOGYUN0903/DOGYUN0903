@@ -19,7 +19,8 @@
 
 | 프로젝트명 | 설명 | 깃허브 |
 |------------|------|--------|
-| **📖면접의 神** | 모의면접 웹 프로그램 | [완료](https://github.com/SexyDoGyun/The-God-of-Interview) |
+| **💸내돈 네돈 챌린지** | 동기부여 애플리케이션 | [완료](https://github.com/nenidan/ne-ne-challenge) |
+| **📖면접의 神** | 모의면접 웹 프로그램 | [완료](https://github.com/DOGYUN0903/The-God-of-Interview) |
 
 ## 📊Statistics
 <a href="https://github.com/anuraghazra/github-readme-stats">
