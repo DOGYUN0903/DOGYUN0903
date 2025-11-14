@@ -17,6 +17,7 @@
 
 | 프로젝트명 | 설명 | 깃허브 |
 |------------|------|--------|
+| **📋FINsight** | 재태크 관련 소식 아카이빙 서비스| [진행중](https://github.com/SWYP-FINsight/FINsight-api) |
 | **⏰Flash-Deal** | 타임딜 프로젝트 | [진행중](https://github.com/DOGYUN0903/Flash-Deal) |
 | **💸내돈 네돈 챌린지** | 동기부여 애플리케이션 | [완료](https://github.com/nenidan/ne-ne-challenge) |
 | **📖면접의 神** | 모의면접 웹 프로그램 | [완료](https://github.com/god-of-interview) |
