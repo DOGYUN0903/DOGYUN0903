@@ -17,6 +17,8 @@
 
 | 프로젝트명 | 설명 | 깃허브 |
 |------------|------|--------|
+| **🐞BugCatcher** | 온라인 QA 웹애플리케이션| [완료](https://github.com/profitlab-hackathon-team-2/bugcatcher-backend) |
+| **🅿️주차 전쟁** | 주차 자리 경매 웹애플리케이션| [완료](https://github.com/JDC-2/parking-wars-backend) |
 | **📋FINsight** | 재태크 관련 소식 아카이빙 서비스| [고도화 예정](https://github.com/SWYP-FINsight/FINsight-api) |
 | **💸내돈 네돈 챌린지** | 동기부여 애플리케이션 | [완료](https://github.com/nenidan/ne-ne-challenge) |
 | **📖면접의 神** | 모의면접 웹 프로그램 | [완료](https://github.com/god-of-interview) |
