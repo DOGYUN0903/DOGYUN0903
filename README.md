@@ -17,7 +17,7 @@
 
 | 프로젝트명 | 설명 | 깃허브 |
 |------------|------|--------|
-| **⚡FlashDeal** | 대용량 처리 이커머스 프로젝트(개인 프로젝트) | [진행중](https://github.com/Blaybus-SIMVEX/SIMVEX-backend) |
+| **⚡FlashDeal** | 대용량 처리 이커머스 프로젝트(개인 프로젝트) | [진행중](https://github.com/DOGYUN0903/Flash-Deal) |
 | **⚙️SIMVEX** | 3D모델링 학습 웹애플리케이션 | [완료](https://github.com/Blaybus-SIMVEX/SIMVEX-backend) |
 | **🐞BugCatcher** | 온라인 QA 웹애플리케이션 | [완료](https://github.com/profitlab-hackathon-team-2/bugcatcher-backend) |
 | **🅿️주차 전쟁** | 주차 자리 경매 웹애플리케이션 | [완료](https://github.com/JDC-2/parking-wars-backend) |
